@@ -1,9 +1,7 @@
-import main.java.com.ef.javacore.chapter15.*;
-
-import java.io.IOException;
+import main.java.com.ef.javacore.chapter20.*;
 
 public class Main {
-    public static void main(String[] args) throws EmptyArrayExc {
-        UseFunctionInterfaceDemo.runFuncInterface();
+    public static void main(String[] args) {
+        FileReaderDemo.runDemo();
     }
 }
